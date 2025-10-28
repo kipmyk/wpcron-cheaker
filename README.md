@@ -622,7 +622,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - 📖 **Documentation**: [GitHub Wiki](https://github.com/kipmyk/wpcron-checker/wiki)
 - 🐛 **Bug Reports**: [Issues](https://github.com/kipmyk/wpcron-checker/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/kipmyk/wpcron-checker/discussions)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/kipmyk/wpcron-cheaker/discussions)
 - 📧 **Email**: e@kipmyk.co.ke
 
 ---
